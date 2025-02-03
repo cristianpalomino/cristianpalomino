@@ -1,0 +1,111 @@
+.tags>* {
+    margin-right: 1rem;
+    margin-top: 0.5rem;
+}
+
+.tags {
+    margin-top: 1rem;
+    font-size: var(--text-sm);
+    margin-bottom: 1rem;
+}
+
+.tags a {
+    text-decoration: none;
+    color: rgb(117, 117, 117);
+}
+
+.experience-list__wrapper {
+    margin-top: 6rem;
+}
+
+.experience-list__heading {
+    font-size: var(--text-3xl);
+    margin-bottom: 1rem;
+}
+
+.experience-list {
+    list-style: none;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(230, 230, 230, 1);
+}
+
+.experience-list__item {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1rem;
+    /* padding-top: 1rem; */
+    /* border-top: 1px solid rgba(230, 230, 230, 1); */
+}
+
+.experience-list__item:last-child {
+    padding-bottom: 3rem;
+    border-bottom: 1px solid rgba(230, 230, 230, 1);
+}
+
+.experience-list__title {
+    font-size: var(--text-2xl);
+    margin-top: 0.5rem;
+}
+
+.experience-list__title a {
+    font-weight: normal;
+    text-decoration: none;
+    color: rgb(41, 41, 41);
+}
+
+.experience-list__title a:hover {
+    text-decoration: underline;
+}
+
+.experience-list__meta {
+    font-size: var(--text-sm);
+    margin-top: 1rem;
+    color: rgb(117, 117, 117);
+}
+
+.experience-list__meta>*+* {
+    margin-left: 1rem;
+}
+
+.experience-list__company {
+    text-decoration: none;
+    font-size: var(--text-xl);
+    margin-top: 0.5rem;
+    color: rgb(117, 117, 117);
+}
+
+.experience-list__period {
+    text-decoration: none;
+    font-size: var(--text-sm);
+    color: rgb(117, 117, 117);
+}
+
+.experience-list__excerpt {
+    margin-top: 1rem;
+    /* font-size: var(--text-sm); */
+    color: rgba(0, 0, 0, 0.8);
+}
+
+.experience-list__read-more {
+    width: fit-content;
+    font-size: 1rem;
+    text-transform: capitalize;
+    margin-top: 1rem;
+    text-decoration: underline;
+}
+
+.experience-list__read-more:hover {
+    text-decoration: underline;
+}
+
+.all-experiences-link {
+    margin-top: 4rem;
+    width: fit-content;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: var(--text-lg);
+    text-decoration: underline;
+    color: currentColor;
+}

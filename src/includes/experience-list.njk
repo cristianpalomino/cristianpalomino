@@ -1,0 +1,28 @@
+<div style="padding-bottom: 2rem;">
+  <ul class="experience-list">
+    {% for exp in experience | sort(attribute='data.order') | reverse %}
+    <li class="experience-list__item">
+      <div onclick="window.location='{{ exp.url }}'" style="cursor: pointer;">
+        <div class="experience-list__meta">
+          <span class="experience-list__period">{{ exp.data.period }}</span>
+        </div>
+
+        <div style="display: flex; align-items: center; gap: 1rem;">
+          <h2 class="experience-list__title">
+            {{ exp.data.company }}
+          </h2>
+          <div class="experience-list__company" style="margin-left: auto;">
+            {{ exp.data.title }}
+          </div>
+        </div>
+
+        <p class="experience-list__excerpt" style="text-decoration: none;"
+          onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">{{
+          exp.templateContent | excerpt | safe }}</p>
+
+        <!-- <a class="experience-list__read-more" href="{{ exp.url }}">more</a> -->
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

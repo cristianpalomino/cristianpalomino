@@ -1,0 +1,48 @@
+{
+  "name": "Cristian Palomino _",
+  "description": "Cristian Palomino's personal website.",
+  "url": "https://cristianpalomino.com",
+  "author": {
+    "name": "Cristian Palomino",
+    "email": "ca.palomino.rivera@gmail.com",
+    "twitterHandle": "ccristianpr"
+  },
+  "defaultSocialImage": "/images/default-social-image.png",
+  "headerLinks": [
+    {
+      "text": "Blog",
+      "url": "/blog",
+      "external": false
+    },
+    {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    }
+  ],
+  "socialLinks": [
+    {
+      "text": "Instagram",
+      "url": "https://www.instagram.com/cristian.palomino._/",
+      "external": true
+    },
+    {
+      "text": "GitHub",
+      "url": "https://github.com/cristianpalomino",
+      "external": true
+    },
+    {
+      "text": "X",
+      "url": "https://twitter.com/ccristianpr",
+      "external": true
+    }
+  ],
+  "footerLinks": [
+    {
+      "text": "RSS",
+      "url": "/feed.xml",
+      "external": true
+    }
+  ],
+  "showFooterAttribution": true
+}

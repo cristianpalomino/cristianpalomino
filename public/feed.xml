@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cristian Palomino _</title>
+  <subtitle></subtitle>
+  <link href="https://cristianpalomino.com/feed.xml" rel="self"/>
+  <link href="https://cristianpalomino.com/"/>
+  
+  <id>https://cristianpalomino.com</id>
+  <author>
+    <name>Cristian Palomino</name>
+    <email>ca.palomino.rivera@gmail.com</email>
+  </author>
+  
+</feed>

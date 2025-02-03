@@ -1,0 +1,17 @@
+---
+layout: base
+---
+
+<div class="about">
+  <h1><a href="/pdfs/cristian.pdf" target="_blank" rel="noopener">Me</a></h1>
+  <img src="{{ image | url }}" alt="" class="about__image">
+  {{ content | safe }}
+</div>
+
+<section class="experience-list__wrapper">
+  <h2 class="experience-list__heading">Experience</h2>
+
+  {% set experience = collections.experience %}
+  {% include "experience-list.njk" %}
+
+</section>

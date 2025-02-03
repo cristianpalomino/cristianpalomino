@@ -1,0 +1,28 @@
+---
+layout: base
+---
+
+<article class="experience">
+  <header class="experience-header">
+    <h1>{{ title }}</h1>
+    {% if company %}
+    <div class="company">{{ company }}</div>
+    {% endif %}
+    {% if period %}
+    <div class="period">{{ period }}</div>
+    {% endif %}
+  </header>
+  <div class="experience-content">
+    {{ content | safe }}
+  </div>
+  {% if skills %}
+  <div class="skills">
+    <h3>Skills & Technologies</h3>
+    <ul>
+      {% for skill in skills %}
+      <li>{{ skill }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endif %}
+</article>
