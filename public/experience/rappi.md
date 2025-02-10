@@ -2,7 +2,7 @@
 order: 9
 title: Software Engineer
 company: Rappi
-period: Oct 2023 - Present
+period: Oct 2023 — Present
 ---
 
 As a Software Engineer at Rappi, I lead a team focused on optimizing the credit card payment process, managing payment information, configuration features, and integration of payment methods across multiple Latin American countries including Chile, Peru, Colombia, Mexico, and Brazil.

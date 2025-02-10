@@ -2,7 +2,7 @@
 order: 7
 title: Software Engineer
 company: Scotiabank
-period: Mar 2018 - May 2021
+period: Mar 2018 — Jun 2021
 ---
 
 As a Software Engineer at Scotiabank, I led iOS development initiatives focusing on authentication and transaction SDKs while managing a team of developers. I was responsible for architectural decisions, technical improvements, and ensuring code quality across multiple applications.

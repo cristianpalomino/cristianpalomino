@@ -2,7 +2,7 @@
 order: 2
 title: Co-Founder
 company: Doapps
-period: Oct 2014 – Mar 2015
+period: Oct 2014 — May 2015
 ---
 
 As Co-Founder and Mobile Developer at Doapps, I led the mobile development team and established technical direction for iOS and Android app development.

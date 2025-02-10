@@ -2,7 +2,7 @@
 order: 1
 title: Mobile Developer
 company: Peruvian Startups
-period: Sep 2013 – Jun 2015
+period: Jun 2013 — Jun 2015
 ---
 
 I was part of a team of developers who were responsible for the development of mobile applications for startups and consulting companies.

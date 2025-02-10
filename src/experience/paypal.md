@@ -2,7 +2,7 @@
 order: 8
 title: Senior iOS Developer
 company: Paypal
-period: Jan 2022 - Dec 2023
+period: Jul 2021 — Dec 2023
 ---
 
 As a Senior iOS Developer at PayPal, I contributed to enhancing Business Profiles on Venmo, focusing on improving user engagement and transaction efficiency. I played a key role in developing features to increase business visibility, enable tipping options, implement contactless payments, and manage sales taxes effectively.

@@ -2,7 +2,7 @@
 order: 6
 title: Software Engineer III
 company: Avantica
-period: May 2017 – Feb 2018
+period: May 2017 — Feb 2018
 ---
 
 As a Software Engineer III at Avantica, I focused on developing iOS applications with emphasis on financial technology, working closely with design teams to create minimum viable products that met client requirements.

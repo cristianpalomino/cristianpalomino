@@ -2,7 +2,7 @@
 order: 3
 title: iOS Developer
 company: Mambo
-period: Jul 2015 – Jan 2017
+period: Jul 2015 — Feb 2016
 ---
 
 As a Mobile Developer at Mambo, I was responsible for developing and maintaining mobile applications for both iOS and Android platforms, with a focus on creating internal libraries and implementing improvements across multiple client projects.

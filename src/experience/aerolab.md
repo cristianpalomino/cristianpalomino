@@ -2,7 +2,7 @@
 order: 5
 title: iOS Developer
 company: Aerolab
-period: Feb 2016 – Apr 2017
+period: May 2016 — Apr 2017
 ---
 
 As an iOS Developer at Aerolab, I focused on developing mobile applications and internal libraries for both iOS and Android platforms, with emphasis on continuous integration and delivery processes.
